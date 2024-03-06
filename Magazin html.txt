@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sport Shoes Store</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #555;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+
+        section {
+            padding: 20px;
+        }
+
+        article {
+            margin-bottom: 20px;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Sport Shoes Store</h1>
+</header>
+
+<nav>
+    <a href="#home">Home</a>
+    <a href="#men">Men's Shoes</a>
+    <a href="#women">Women's Shoes</a>
+    <a href="#about">About Us</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="home">
+    <h2>Welcome to Sport Shoes Store!</h2>
+    <p>Explore our collection of high-quality sport shoes for men and women.</p>
+</section>
+
+<section id="men">
+    <h2>Men's Shoes</h2>
+    <article>
+        <h3>Running Shoes</h3>
+        <p>Designed for comfort and performance, our running shoes are perfect for your daily runs.</p>
+    </article>
+    <article>
+        <h3>Basketball Shoes</h3>
+        <p>Get ready to hit the court with our stylish and functional basketball shoes.</p>
+    </article>
+</section>
+
+<section id="women">
+    <h2>Women's Shoes</h2>
+    <article>
+        <h3>Training Shoes</h3>
+        <p>Stay active and stylish with our collection of women's training shoes.</p>
+    </article>
+    <article>
+        <h3>Walking Shoes</h3>
+        <p>Comfortable and supportive, our walking shoes are perfect for everyday activities.</p>
+    </article>
+</section>
+
+<section id="about">
+    <h2>About Us</h2>
+    <p>At Sport Shoes Store, we are passionate about providing top-quality athletic footwear to our customers.</p>
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+    <p>Have questions or feedback? Reach out to us at <a href="mailto:info@sportshoesstore.com">info@sportshoesstore.com</a>.</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Sport Shoes Store. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
